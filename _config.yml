@@ -31,7 +31,12 @@ resume-url: ./assets/resume/Resume.pdf
 # Set up external links - this will show up as small icons next to your name.
 #<a href="{{ site.data.social-media.instagram.href }}{{ site.data.social-media.instragarm.id }}" title="Hello">Click me!</a>
 #<a href="https://www.linkedin.com/in/joseph-wahlstrom" title="Linkedin"><i class="fa fa-linkedin-square"></i></a>
-
+minima:
+  social_links:
+    - title: Jobob
+      icon: instagram
+      url: "https://www.instagram.com/Joseph_621a"
+    
 
 
 # external-links:    # input only your own url slug. The icons with missing entries will not appear.
@@ -148,7 +153,6 @@ plugins:
 
 include:
   - _projects
-  - social-media-links
 
 
 # Exclude from processing.
