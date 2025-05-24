@@ -1,0 +1,23 @@
+email:
+  id: 'jwahlstrom2001@gmail.com'
+  href: 'mailto:'
+  title: 'Email'
+  fa-icon: 'fa-envelope-square'
+
+  github:
+  id: 'JosephWah'
+  href: 'https://github.com/'
+  title: 'GitHub'
+  fa-icon: 'fa-github-square'
+
+  instagram:
+  id: 'Joseph_621a'
+  href: 'https://www.instagram.com'
+  title: 'Instagram'
+  fa-icon: 'fa-instagram-square'
+
+  linkedin:
+  id: 'joseph-wahlstrom'
+  href: 'https://www.linkedin.com/in'
+  title: 'Linkedin'
+  fa-icon: 'fa-linkedin-square'
