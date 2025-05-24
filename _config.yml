@@ -29,7 +29,11 @@ resume-url: ./assets/resume/Resume.pdf
 
 
 # Set up external links - this will show up as small icons next to your name.
-<a href="{{ site.data.social-media.instagram.href }}{{ site.data.social-media.instragarm.id }}" title="Hello">Click me!</a>
+#<a href="{{ site.data.social-media.instagram.href }}{{ site.data.social-media.instragarm.id }}" title="Hello">Click me!</a>
+<a href="https://www.linkedin.com/in/joseph-wahlstrom" title="Linkedin"><i class="fa fa-linkedin-square"></i></a>
+
+
+
 # external-links:    # input only your own url slug. The icons with missing entries will not appear.
 #   linkedin: joseph-wahlstrom   # https://www.linkedin.com/in/{your url slug} 
 #   # github:    # https://github.com/{your url slug} 
