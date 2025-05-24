@@ -31,12 +31,28 @@ resume-url: ./assets/resume/Resume.pdf
 # Set up external links - this will show up as small icons next to your name.
 #<a href="{{ site.data.social-media.instagram.href }}{{ site.data.social-media.instragarm.id }}" title="Hello">Click me!</a>
 #<a href="https://www.linkedin.com/in/joseph-wahlstrom" title="Linkedin"><i class="fa fa-linkedin-square"></i></a>
-minima:
-  social_links:
-    - title: Jobob
-      icon: instagram
-      url: "https://www.instagram.com/Joseph_621a"
-    
+# minima:
+#   social_links:
+#     - title: Jobob
+#       icon: instagram
+#       url: "https://www.instagram.com/Joseph_621a"
+twitter_username: jekyllrb
+github_username:  jekyll
+dribbble_username: jekyll
+facebook_username: jekyll
+flickr_username: jekyll
+instagram_username: jekyll
+linkedin_username: jekyll
+pinterest_username: jekyll
+youtube_username: jekyll
+googleplus_username: +jekyll
+rss: rss
+
+mastodon:
+ - username: jekyll
+   instance: example.com
+ - username: jekyll2
+   instance: example.com    
 
 
 # external-links:    # input only your own url slug. The icons with missing entries will not appear.
