@@ -36,33 +36,33 @@ resume-url: ./assets/resume/Resume.pdf
 #     - title: Jobob
 #       icon: instagram
 #       url: "https://www.instagram.com/Joseph_621a"
-twitter_username: jekyllrb
-github_username:  jekyll
-dribbble_username: jekyll
-facebook_username: jekyll
-flickr_username: jekyll
-instagram_username: jekyll
-linkedin_username: jekyll
-pinterest_username: jekyll
-youtube_username: jekyll
-googleplus_username: +jekyll
-rss: rss
+# twitter_username: jekyllrb
+# github_username:  jekyll
+# dribbble_username: jekyll
+# facebook_username: jekyll
+# flickr_username: jekyll
+# instagram_username: jekyll
+# linkedin_username: jekyll
+# pinterest_username: jekyll
+# youtube_username: jekyll
+# googleplus_username: +jekyll
+# rss: rss
 
-mastodon:
- - username: jekyll
-   instance: example.com
- - username: jekyll2
-   instance: example.com    
+# mastodon:
+#  - username: jekyll
+#    instance: example.com
+#  - username: jekyll2
+#    instance: example.com    
 
 
-# external-links:    # input only your own url slug. The icons with missing entries will not appear.
-#   linkedin: joseph-wahlstrom   # https://www.linkedin.com/in/{your url slug} 
+ external-links:    # input only your own url slug. The icons with missing entries will not appear.
+   linkedin: joseph-wahlstrom   # https://www.linkedin.com/in/{your url slug} 
 #   # github:    # https://github.com/{your url slug} 
 #   # stackoverflow:       # https://stackoverflow.com/users/{your url slug}
 #   # medium:            # https://medium.com/@{your url slug} 
 #   # x-twitter:   # https://x.com/{your url slug} 
 #   # threads:            # https://threads.net/@{your url slug} 
-#   instragram: joseph   # https://instagram.com/{your url slug} 
+   instagram: Joseph_621a   # https://instagram.com/{your url slug} 
 #   #youtube:          # https://youtube.com/@{your url slug} 
 #   # discord:            # https://discord.com/users/{your url slug} 
 #   # bluesky:           # https://bsky.app/profile/{your url slug} 
