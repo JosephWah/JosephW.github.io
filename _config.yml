@@ -13,7 +13,7 @@ title: Joseph's Portfolio # This is what shows up in the tab of the browser
 
 # Hero Section
 name: Joseph Wahlstrom
-headline: headline message
+headline: Mechanical Engineer based in Bowling Green, KY
 description: >- # dont remove this line. this will ignore all new lines until the next section
   Write an awesome intro and discuss your highlights and qualification. You can edit this
   line in _config.yml. It will appear in your document head meta (for
@@ -38,7 +38,7 @@ external-links:    # input only your own url slug. The icons with missing entrie
   # x-twitter:   # https://x.com/{your url slug} 
   # threads:            # https://threads.net/@{your url slug} 
   instragram: joseph_621a   # https://instagram.com/{your url slug} 
-  youtube:          # https://youtube.com/@{your url slug} 
+  #youtube:          # https://youtube.com/@{your url slug} 
   # discord:            # https://discord.com/users/{your url slug} 
   # bluesky:           # https://bsky.app/profile/{your url slug} 
   
