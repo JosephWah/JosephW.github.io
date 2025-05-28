@@ -14,4 +14,4 @@ main-image: /stock picture.png
 ---
 # Stress Analysis
 The required stress to break through a 3.5" OD pipe is found first
-{% include image-gallery.html Images="80 lbf on pipe section stress graph,png" height="200%" %}
+{% include image-gallery.html Images="80 lbf on pipe section stress graph.png" height="200%" %}
