@@ -15,7 +15,7 @@ main-image: /stock picture.png
 # Stress Analysis
 The required stress to yield a 3.5" OD pvc pipe is found first:
 
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/202895974@N04/54552471386/in/dateposted-public/" title="80 lbf on pipe section stress graph"><img src="https://live.staticflickr.com/65535/54552471386_fbaa2162d1_b.jpg" width="1024" height="510" alt="80 lbf on pipe section stress graph"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+{% include image-gallery.html images="https://live.staticflickr.com/65535/54552471386_fbaa2162d1_b.jpg" height="400" %}
 
 That force is then applied to various components of the pipe cutter to ensure it won't fail:
 
