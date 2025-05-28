@@ -19,4 +19,4 @@ The required stress to yield a 3.5" OD pvc pipe is found first:
 
 That force is then applied to various components of the pipe cutter to ensure it won't fail:
 
-{% include image-gallery.html images="https://live.staticflickr.com/65535/54552471366_b993385fbc_b.jpg" height="400" %} 
+{% include image-gallery.html images="https://live.staticflickr.com/65535/54552471366_b993385fbc_b.jpg, https://live.staticflickr.com/65535/54552652604_4ca263b078_b.jpg, https://live.staticflickr.com/65535/54552810935_b669234e1f_b.jpg" height="300" %} 
