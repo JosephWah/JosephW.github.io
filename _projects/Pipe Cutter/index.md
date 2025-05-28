@@ -5,5 +5,5 @@ description:  Completely custom ratcheting pvc pipe cutter designed for larger p
 skills: 
 - 3D Modeling
 - Stress Analysis
-main-image: /stock picture.png
+main-image: /picture.png
 ---
