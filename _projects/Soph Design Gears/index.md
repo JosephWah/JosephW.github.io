@@ -7,5 +7,5 @@ skills:
 - 3D printing
 - Gear design
 - Solidworks Toolbox
-main-image: /output-onlinepngtools().png
+main-image: /output-onlinepngtools(3).png
 ---
