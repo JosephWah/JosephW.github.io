@@ -22,4 +22,5 @@ That force is then applied to various components of the pipe cutter to ensure it
 <span style="font-size: 12px">A force of 80 lb applied to the cutting blade where it impacts the pvc pipe, the bottom of the assembly where the pipe is pushed against before being cut, and the ratchet and pawl mechanism</span>  
 {% include image-gallery.html images="https://live.staticflickr.com/65535/54552471366_b993385fbc_b.jpg" width=300 height=250 %}
 {% include image-gallery.html images="https://live.staticflickr.com/65535/54552652604_4ca263b078_b.jpg" width=300 height=250 %}
-{% include image-gallery.html images="https://live.staticflickr.com/65535/54552810935_b669234e1f_w.jpg" width=300 height=250 %}
+
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/202895974@N04/54552810935/in/dateposted-public/" title="80lbf on ratchet-pawl stress graph"><img src="https://live.staticflickr.com/65535/54552810935_b669234e1f_w.jpg" width="400" height="215" alt="80lbf on ratchet-pawl stress graph"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
