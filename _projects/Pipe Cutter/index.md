@@ -12,7 +12,7 @@ main-image: /stock picture.png
 ---
 
 ---
-# Stress Analysis
+## Stress Analysis
 The required stress to yield a 3.5" OD pvc pipe is found first:
 {% include image-gallery.html images="https://live.staticflickr.com/65535/54552471386_fbaa2162d1_b.jpg" height="300" %}
 
