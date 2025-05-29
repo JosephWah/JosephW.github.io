@@ -11,7 +11,7 @@ main-image: /output-onlinepngtools(3).png
 ---
 
 ---
-# Final Build
+## Final Build
 The final slip gear system yielded smooth and consistent operating cycles.
 <br>
 {% include image-gallery.html images="https://live.staticflickr.com/65535/54553244707_f4518f22aa_b.jpg" height="400"%}
