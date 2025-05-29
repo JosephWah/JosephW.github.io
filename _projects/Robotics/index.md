@@ -5,6 +5,6 @@ description:  Competed in VEX for 6 years, building a new robot each year to pla
 skills: 
 - 3D Modeling
 - Engineering Fundamentals
-main-image: /Screenshot 2025-05-29 163455.png
+main-image: {% include image-gallery.html images="https://live.staticflickr.com/65535/54554606951_993e639a4a_w.jpg" height="400" %} 
 ---
 
