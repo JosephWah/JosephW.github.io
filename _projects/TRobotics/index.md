@@ -1,7 +1,7 @@
 ---
 layout: post
 title: VEX Robotics Competition
-description: See more at my robotics <a href="https://www.instagram.com/joseph_621a/">Instagram</a> or <a href="https://www.youtube.com/@team_621a6">YouTube</a> accounts.
+description: 
 skills: 
 - 3D Modeling
 - Engineering Fundamentals
