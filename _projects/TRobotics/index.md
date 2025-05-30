@@ -1,7 +1,7 @@
 ---
 layout: post
 title: VEX Robotics Competition
-description: Competed for 6 years, building a new robot each year and iterating on it to play the provided game. See more at my robotics or accounts.
+description: Competed for 6 years, building a new robot each year and iterating on it to play the provided game. See more at my robotics socials below.
 
 skills: 
 - 3D Modeling
@@ -9,11 +9,13 @@ skills:
 - C++ Programming
 - Maintenence
 - Troubleshooting
-main-image: /Screenshot 2025-05-29 163455.pn
+main-image: /Screenshot 2025-05-29 163455.png
 ---
 
 ---
 ## Overview
+Competed for 6 years, building a new robot each year and iterating on it to play the provided game. See more at my robotics <a href="https://www.instagram.com/joseph_621a/">**Instagram**</a> or <a href="https://www.youtube.com/@team_621a6">**YouTube**</a> accounts.
+
 <span style="font-size: 18px">•	Recognized as Division Finalist at the 2018 VEX World Championship.</span>  
 <span style="font-size: 18px">•	Designed, built, and programmed competitive robots from the ground up to meet event-specific design challenges.</span>  
 <span style="font-size: 18px">•	Used CAD modeling tools to iterate on robot subsystems and mechanisms.</span>
