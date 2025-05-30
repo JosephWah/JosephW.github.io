@@ -8,7 +8,7 @@ skills:
 - C++ Programming
 - Maintenence
 - Troubleshooting
-main-image: /VRC-Toss-Up-Field (1)(1).png
+main-image: /VRC-Toss-Up-Field (1)(2).png
 ---
 
 ---
