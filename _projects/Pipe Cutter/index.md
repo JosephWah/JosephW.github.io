@@ -13,13 +13,13 @@ main-image: /stock picture.png
 
 ---
 ## Stress Analysis
-The required stress to yield a 3.5" OD pvc pipe is first found to be 80 lbf
+The required axial force to yield a 3.5" OD pvc pipe is first found to be 80 lbf
 {% include image-gallery.html images="https://live.staticflickr.com/65535/54552471386_fbaa2162d1_b.jpg" height="600" %}
 <br>
 That force is then applied to various components of the pipe cutter to ensure it won't fail:
 
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/202895974@N04/54553950987/in/dateposted-public/" title="Screenshot 2025-05-29 191524"><img src="https://live.staticflickr.com/65535/54553950987_bfe74cc8cf_w.jpg" width="600" height="496" alt="Screenshot 2025-05-29 191524"/></a>
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/202895974@N04/54555016439/in/dateposted-public/" title="blade force iso"><img src="https://live.staticflickr.com/65535/54555016439_a930d0acaa_w.jpg" width="600" height="380" alt="blade force iso"/></a>
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/202895974@N04/54553950987/in/dateposted-public/" title="Screenshot 2025-05-29 191524"><img src="https://live.staticflickr.com/65535/54553950987_bfe74cc8cf_w.jpg" width="500" height="396" alt="Screenshot 2025-05-29 191524"/></a>
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/202895974@N04/54555016439/in/dateposted-public/" title="blade force iso"><img src="https://live.staticflickr.com/65535/54555016439_a930d0acaa_w.jpg" width="500" height="280" alt="blade force iso"/></a>
 
 <br> 
 
