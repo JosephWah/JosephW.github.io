@@ -35,3 +35,7 @@ main-image: /stock picture.png
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/202895974@N04/54555016424/in/dateposted-public/" title="Screenshot 2025-05-29 191944"><img src="https://live.staticflickr.com/65535/54555016424_ba96c33d89_w.jpg" width="500" height="372" hspace="100" alt="Screenshot 2025-05-29 191944"/></a>
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/202895974@N04/54555066393/in/dateposted-public/" title="handle bottom iso"><img src="https://live.staticflickr.com/65535/54555066393_cbeb111fff_w.jpg" width="500" height="286" alt="handle bottom iso"/></a>
 
+
+<br> <br> <br> <br>
+
+## Fabrication Coming Soon...
