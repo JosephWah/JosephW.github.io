@@ -8,7 +8,7 @@ skills:
 - C++ Programming
 - Maintenence
 - Troubleshooting
-main-image: /Screenshot 2025-05-29 163455.p
+main-image: /Screenshot 2025-05-29 163455.png
 ---
 
 ---
