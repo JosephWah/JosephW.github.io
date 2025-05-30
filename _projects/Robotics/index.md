@@ -11,11 +11,11 @@ main-image: /Screenshot 2025-05-29 163455(2).png
 ---
 ## Overview
 
-<span style="font-size: 16px">•	Recognized as Division Finalist at the 2018 VEX World Championship.</span>  
-<span style="font-size: 16px">•	Designed, built, and programmed competitive robots from the ground up to meet event-specific design challenges.</span>  
-<span style="font-size: 16px">•	Used CAD modeling tools to iterate on robot subsystems and mechanisms.</span>
-<span style="font-size: 16px">•	Collaborated with team members to improve overall efficiency and modularity.</span>  
-<span style="font-size: 16px">•	Mentored younger team participants in design principles, gear ratios, motor control, and autonomous logic.</span> 
+<span style="font-size: 18px">•	Recognized as Division Finalist at the 2018 VEX World Championship.</span>  
+<span style="font-size: 18px">•	Designed, built, and programmed competitive robots from the ground up to meet event-specific design challenges.</span>  
+<span style="font-size: 18px">•	Used CAD modeling tools to iterate on robot subsystems and mechanisms.</span>
+<span style="font-size: 18px">•	Collaborated with team members to improve overall efficiency and modularity.</span>  
+<span style="font-size: 18px">•	Mentored younger team participants in design principles, gear ratios, motor control, and autonomous logic.</span> 
 
 <br> <br>
 
