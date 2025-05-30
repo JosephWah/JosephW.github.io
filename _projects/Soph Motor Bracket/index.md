@@ -7,7 +7,7 @@ skills:
 - Tolerance Design
 - - 3D printing
 - FEA
-main-image: /Picture2(2).pn
+main-image: /Picture2(2).png
 ---
 
 ---
