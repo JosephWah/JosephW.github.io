@@ -1,8 +1,6 @@
 ---
 layout: post
 title: VEX Robotics Competition
-description: Competed for 6 years, building a new robot each year and iterating on it to play the provided game. See more at my robotics socials below.
-
 skills: 
 - 3D Modeling
 - Engineering Fundamentals
@@ -23,7 +21,7 @@ Competed for 6 years, building a new robot each year and iterating on it to play
 <span style="font-size: 18px">•	Mentored younger team participants in design principles, gear ratios, motor control, and autonomous logic.</span> 
 <br> <br>
 ## Several of my designs throughout the years
-<br>
+
 
 ### 2019 VEX Tower Takeover Robot
 {% include image-gallery.html images="https://live.staticflickr.com/65535/54554890226_8afb96933c_w.jpg" height="400" %} 
