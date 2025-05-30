@@ -5,7 +5,7 @@ description:  Custom motor bracket designed to hold two 24V DC motors, two gears
 skills: 
 - 3D Modeling
 - Tolerance Design
-- - 3D printing
+- 3D printing
 - FEA
 main-image: /Picture2(2).png
 ---
