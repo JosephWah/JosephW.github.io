@@ -64,6 +64,7 @@ skills:
     - Web VPython
     - HTML
   - category: Project Management
+    tools:
     - Excel
     - Gated Design Review
     - Status Presentations
