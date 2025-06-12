@@ -18,9 +18,13 @@ main-image: /VRC-Toss-Up-Field (1)(2).png
 See more at my <a href="https://www.instagram.com/joseph_621a/">**Instagram**</a> or <a href="https://www.youtube.com/@team_621a6">**YouTube**</a> robotics accounts.
 
 <span style="font-size: 18px">•	Recognized as Division Finalist at the 2018 VEX World Championship.</span>  
+<br>
 <span style="font-size: 18px">•	Designed, built, and programmed competitive robots from the ground up to meet event-specific design challenges.</span>  
+<br>
 <span style="font-size: 18px">•	Used CAD modeling tools to iterate on robot subsystems and mechanisms.</span>
+<br>
 <span style="font-size: 18px">•	Collaborated with team members to improve overall efficiency and modularity.</span>  
+<br>
 <span style="font-size: 18px">•	Mentored younger team participants in design principles, gear ratios, motor control, and autonomous logic.</span> 
 <br> <br>
 ## Several of my designs throughout the years
