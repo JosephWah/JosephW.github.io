@@ -5,9 +5,11 @@ description: Competed for 6 years, building a new robot each year and iterating 
 skills: 
 - 3D Modeling
 - Engineering Fundamentals
-- C++ Programming
-- Maintenence
+- C++
+- Preventative Maintenence
 - Troubleshooting
+- Gear Design
+- Motor Calculations
 main-image: /VRC-Toss-Up-Field (1)(2).png
 ---
 
