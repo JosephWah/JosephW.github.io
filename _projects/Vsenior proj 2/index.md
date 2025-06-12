@@ -9,5 +9,5 @@ skills:
 - ANSYS Workbench
 - AFR for Metal Plasticity
 - FEA
-main-image: /Picture2(2).png
+main-image: /imageedit_2_7884227394.png
 ---
