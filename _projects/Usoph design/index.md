@@ -11,5 +11,5 @@ skills:
 - Manual Vertical Mill
 - PLC Programming
 - Continuous Design Improvement
-main-image: /imageedit_3_7971047760.png
+main-image: /imageedit_4_7615962360.png
 ---
