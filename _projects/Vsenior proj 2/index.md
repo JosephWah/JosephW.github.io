@@ -13,13 +13,13 @@ main-image: /imageedit_2_7884227394.png
 ---
 
 ---
-##There are three loading conditions applied to the plate, as illustrated below:
-{% include image-gallery.html images="https://live.staticflickr.com/65535/54585695060_603d6f3568_c.jpg" height="400" %} 
+## There are three loading conditions applied to the plate, as illustrated below:
+{% include image-gallery.html images="https://live.staticflickr.com/65535/54584578242_ff46403209_z.jpg" height="400" %} 
 <span style="font-size: 16px">Uniform bi-axial loading</span>  
 <br><br>
-{% include image-gallery.html images="https://live.staticflickr.com/65535/54585695065_cc9055d2cc_c.jpg" height="400" %} 
+{% include image-gallery.html images="https://live.staticflickr.com/65535/54585663043_7476379221_z.jpg" height="400" %} 
 <span style="font-size: 16px">Uniform bi-axial loading plus a constant force applied through the plate's thickness</span>  
 <br><br>
-{% include image-gallery.html images="https://live.staticflickr.com/65535/54585383646_d8bd720123_c.jpg" height="400" %} 
+{% include image-gallery.html images="https://live.staticflickr.com/65535/54585447761_03563ae930_z.jpg" height="400" %} 
 <span style="font-size: 16px">Non-uniform bi-axial loading</span>  
 <br><br>
