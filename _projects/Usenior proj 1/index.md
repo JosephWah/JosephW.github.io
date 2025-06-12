@@ -1,11 +1,13 @@
 ---
 layout: post
-title: DC Motor Bracket
-description:  Custom motor bracket designed to hold two 24V DC motors, two gears to connect them and a custom locking collar to attach one of the motor shafts to the 0.5" arm shaft.
+title: Senior Project 2
+description:  Designed a custom wind heater capable of taking kinetic energy from the wind and convertind it directly to heat without an electrical interface.
 skills: 
 - 3D Modeling
-- Tolerance Design
-- 3D printing
+- QBlade
+- Airfoil Design
+- Magnet Math
+- Design Optimization
 - FEA
 main-image: /Picture2(2).png
 ---
