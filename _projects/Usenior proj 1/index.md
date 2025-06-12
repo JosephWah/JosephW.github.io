@@ -9,5 +9,5 @@ skills:
 - Magnet Math
 - Design Optimization
 - FEA
-main-image: /imageedit_10_9030589113.png
+main-image: /imageedit_12_7764987760.png
 ---
