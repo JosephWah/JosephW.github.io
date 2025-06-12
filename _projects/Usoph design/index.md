@@ -1,11 +1,15 @@
 ---
 layout: post
-title: DC Motor Bracket
-description:  Custom motor bracket designed to hold two 24V DC motors, two gears to connect them and a custom locking collar to attach one of the motor shafts to the 0.5" arm shaft.
+title: Sophomore Design Golfing Robot
+description:  Designed and Fabricated a golfing robot that could chip and putt golf balls while loading itself completely autonomously.
 skills: 
 - 3D Modeling
 - Tolerance Design
 - 3D printing
-- FEA
+- Gear Design
+- Lathe
+- Manual Vertical Mill
+- PLC Programming
+- Continuous Design Improvement
 main-image: /Picture2(2).png
 ---
