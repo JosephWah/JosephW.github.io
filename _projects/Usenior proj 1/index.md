@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Senior Project 2
+title: Senior Capstone Project 2
 description:  Designed a custom wind heater capable of taking kinetic energy from the wind and convertind it directly to heat without an electrical interface.
 skills: 
 - 3D Modeling
