@@ -28,13 +28,13 @@ main-image: /imageedit_2_7884227394.png
 ## The obtained simulation results using an Associated Flow Rule (AFR) model are shown below:
 <br><br>
 <span style="font-size: 18px">Uniform bi-axial loading for steel and aluminum:</span>  
-{% include image-gallery.html images="https://live.staticflickr.com/65535/54584611572_0ae48d4ee2_z.jpg" height="400" %} 
-{% include image-gallery.html images="https://live.staticflickr.com/65535/54584611567_8b160aaec7_z.jpg" height="400" %} 
+{% include image-gallery.html images="https://live.staticflickr.com/65535/54584611572_0ae48d4ee2_z.jpg" height="250" %} 
+{% include image-gallery.html images="https://live.staticflickr.com/65535/54584611567_8b160aaec7_z.jpg" height="250" %} 
 <br><br><br>
 <span style="font-size: 18px">Uniform bi-axial loading plus a constant force applied through the plate's thickness for steel and aluminum:</span>  
-{% include image-gallery.html images="https://live.staticflickr.com/65535/54585668794_62e553143d_z.jpg" height="400" %} 
-{% include image-gallery.html images="https://live.staticflickr.com/65535/54584605292_41a377d9d5_z.jpg" height="400" %} 
+{% include image-gallery.html images="https://live.staticflickr.com/65535/54585668794_62e553143d_z.jpg" height="250" %} 
+{% include image-gallery.html images="https://live.staticflickr.com/65535/54584605292_41a377d9d5_z.jpg" height="250" %} 
 <br><br><br>
 <span style="font-size: 18px">Non-uniform bi-axial loading for steel and aluminum:</span>  
-{% include image-gallery.html images="https://live.staticflickr.com/65535/54585690948_f2778f7817_z.jpg" height="400" %} 
-{% include image-gallery.html images="https://live.staticflickr.com/65535/54584605292_41a377d9d5_z.jpg" height="400" %} 
+{% include image-gallery.html images="https://live.staticflickr.com/65535/54585690948_f2778f7817_z.jpg" height="250" %} 
+{% include image-gallery.html images="https://live.staticflickr.com/65535/54584605292_41a377d9d5_z.jpg" height="250" %} 
