@@ -6,8 +6,12 @@ skills:
 - 3D Modeling
 - QBlade
 - Airfoil Design
-- Magnet Math
 - Design Optimization
+- Project Management
+- 
 - FEA
 main-image: /imageedit_15_8297985868.png
 ---
+
+---
+## Several initial concepts were developed first and a Pugh Matrix was used to select the best one:
