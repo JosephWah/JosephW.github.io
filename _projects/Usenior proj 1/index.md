@@ -28,7 +28,7 @@ main-image: /imageedit_15_8297985868.png
 {% include image-gallery.html images="https://live.staticflickr.com/65535/54587340138_e3c38cdb34_w.jpg" height="400" %} 
 <br>
 <span style="font-size: 18px">The Cp vs TSR for each of the selected airfoils where the area under the graph can be considered the airfoils' general efficiency:</span> 
-{% include image-gallery.html images="https://live.staticflickr.com/65535/54587448810_80bf2f75d1_w.jpg" height="400" %}
+{% include image-gallery.html images="https://live.staticflickr.com/65535/54587448810_80bf2f75d1_w.jpg" height="450" %}
 <br>
 <span style="font-size: 18px">The NASA LRN 1015 airfoil:</span> 
 {% include image-gallery.html images="https://live.staticflickr.com/65535/54586250162_3ac0ebf738_w.jpg" height="400" %}
