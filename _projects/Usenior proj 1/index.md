@@ -44,5 +44,5 @@ main-image: /imageedit_15_8297985868.png
 <span style="font-size: 18px">The formula for the torque produced by the magnets, and thus the minimum torque needed by the turbine to actually move, is given by:</span> 
 {% include image-gallery.html images="https://live.staticflickr.com/65535/54586435782_d3bddeb504_m.jpg" height="400" %}
 <br>
-<span style="font-size: 18px">The final design:</span> 
+<span style="font-size: 18px">After landing on final turbine specs, everything could be plugged in to find the maximum number of magnets that could be used and thus the final design of the heating subsystem was created:</span> 
 {% include image-gallery.html images="https://live.staticflickr.com/65535/54587118911_f414ab6bae_w.jpg" height="450" %}
