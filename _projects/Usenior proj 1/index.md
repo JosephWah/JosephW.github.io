@@ -33,11 +33,14 @@ main-image: /imageedit_15_8297985868.png
 <br>
 <span style="font-size: 18px">The NASA LRN 1015 airfoil:</span> 
 {% include image-gallery.html images="https://live.staticflickr.com/65535/54586250162_3ac0ebf738_w.jpg" height="400" %}
-<br><br>br>
+<br><br><br>
 
 ## For the heat generation subsystem, the basic metal tube with magnets rotating within was chosen and the final design is as follows:
 <br>
-{% include image-gallery.html images="https://live.staticflickr.com/65535/54587118911_f414ab6bae_w.jpg" height="400" %}
+{% include image-gallery.html images="https://live.staticflickr.com/65535/54587118911_f414ab6bae_w.jpg" height="450" %}
 <br>
-<span style="font-size: 18px">The formula that was used to calculate:</span> 
-{% include image-gallery.html images="https://live.staticflickr.com/65535/54587118911_f414ab6bae_w.jpg" height="400" %}
+<span style="font-size: 18px">The formula that was used to calculate the Power derived from the system is as follows:</span> 
+{% include image-gallery.html images="" height="400" %}
+<br>
+<span style="font-size: 18px">The formula for the torque produced by the magnets, and thus the minimum torque needed by the turbine to actually move, is given by:</span> 
+{% include image-gallery.html images="" height="400" %}
