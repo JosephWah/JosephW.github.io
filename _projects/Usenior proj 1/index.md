@@ -35,12 +35,14 @@ main-image: /imageedit_15_8297985868.png
 {% include image-gallery.html images="https://live.staticflickr.com/65535/54586250162_3ac0ebf738_w.jpg" height="400" %}
 <br><br><br>
 
-## For the heat generation subsystem, the basic metal tube with magnets rotating within was chosen and the final design is as follows:
-<br>
-{% include image-gallery.html images="https://live.staticflickr.com/65535/54587118911_f414ab6bae_w.jpg" height="450" %}
+## For the heat generation subsystem, Schieber's model for resistive torque was used as a baseline but some derivations were made to more appropriately model it for our use case:
+
 <br>
 <span style="font-size: 18px">The formula that was used to calculate the Power derived from the system is as follows:</span> 
-{% include image-gallery.html images="" height="400" %}
+{% include image-gallery.html images="https://live.staticflickr.com/65535/54587303576_8125cab620_w.jpg" height="400" %}
 <br>
 <span style="font-size: 18px">The formula for the torque produced by the magnets, and thus the minimum torque needed by the turbine to actually move, is given by:</span> 
-{% include image-gallery.html images="" height="400" %}
+{% include image-gallery.html images="https://live.staticflickr.com/65535/54586435782_d3bddeb504_m.jpg" height="400" %}
+<br>
+<span style="font-size: 18px">The final design:</span> 
+{% include image-gallery.html images="https://live.staticflickr.com/65535/54587118911_f414ab6bae_w.jpg" height="450" %}
