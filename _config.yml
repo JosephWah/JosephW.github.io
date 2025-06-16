@@ -44,30 +44,41 @@ external-links:    # input only your own url slug. The icons with missing entrie
 
 # Skills Section - Add the list of your Skills by categories/tools. The indentation for each level needs to be precise. 
 skills:
-  - category: 3D Modeling
+  - category: Engineering Software
     tools:
-    - Onshape
-    - Solidworks
-    - Inventor (Autodesk)
+    - SolidWorks
+    - SolidWorks Toolbox
+    - Autodesk Inventor
     - ANSYS Workbench
-  - category: Prototyping
-    tools:
     - QBlade
+  - category: Fabrication
+    tools:
+    - 3D Printing (PLA)
+    - Prototyping
   - category: Simulation
     tools:
     - FEA
     - Fatigue analysis
-    - Plastic yield simulation via ANSYS
+    - Plastic Yield Simulation in ANSYS
+    - CFD in SolidWorks
   - category: Programming
     tools:
     - C++
     - Web VPython
     - HTML
+    - Allen Bradley PLC
   - category: Project Management
     tools:
-    - Excel
+    - Microsoft Excel
+    - Microsoft Word
     - Gated Design Review
     - Status Presentations
+  - category: Tools
+    tools:
+    - Manual Mill
+    - Lathe
+    - Band Saw
+    - Basic Power Tools
   
 
 # Contact Form Setup. Setup an account and copy over the key. When someone fills out the form, it will be received in your email.
